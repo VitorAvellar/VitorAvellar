@@ -48,12 +48,6 @@
 
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vitoravellar/vitoravellar/output/snake.svg" alt="Snake animation" />
-
 ## ✍️ Sobre mim
 <h3 align="left">Atualmente estudo sistemas de informações na faculdade Fiap.<br>
 E tambem faço estágio na empresa INTELLIGENZA.<br>
