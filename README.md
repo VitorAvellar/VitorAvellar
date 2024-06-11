@@ -48,8 +48,10 @@
 
 ## ✍️ Sobre mim
 <h3 align="left">Atualmente estudo sistemas de informações na faculdade Fiap.<br>
-E tambem faço estágio na empresa INTELLIGENZA.<br>
-Onde realizo as atividades de:<br> Automações de tarefas com o uso de JavaScript, HTML/CSS e Google Appscripts <br>
+E tambem tenho experiencia na empresa INTELLIGENZA.<br>
+Onde realizei as atividades de:<br> Automações de tarefas com o uso de JavaScript, HTML/CSS e Google Appscripts <br>
 Atendimento e suporte ao Usuário <br>
-Atualização e criação de procedimentos internos
+Atualização e criação de procedimentos internos <br>
+Manutenção de notebooks
+  
 </h3>
